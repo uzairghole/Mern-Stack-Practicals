@@ -1,127 +1,238 @@
-````markdown
 # ⚡ UZAIR GHOLE // DEVELOPER PROFILE
 
 ```text
-┌──(uzair⚡root-dev)-[~]
-└─$ cat /etc/motd
+┌──(uzair⚡dev)-[~]
+└─$ whoami
 
-   ██╗   ██╗███████╗ █████╗ ██╗██████╗      ██████╗ ██╗  ██╗ ██████╗ ██╗     ███████╗
-   ██║   ██║╚══███╔╝██╔══██╗██║██╔══██╗    ██╔════╝ ██║  ██║██╔═══██╗██║     ██╔════╝
-   ██║   ██║  ███╔╝ ███████║██║██████╔╝    ██║  ███╗███████║██║   ██║██║     █████╗
-   ██║   ██║ ███╔╝  ██╔══██║██║██╔══██╗    ██║   ██║██╔══██║██║   ██║██║     ██╔══╝
-   ╚██████╔╝███████╗██║  ██║██║██║  ██║    ╚██████╔╝██║  ██║╚██████╔╝███████╗███████╗
-    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
+Ｕᴢᴀɪʀ  Ｇʜᴏʟᴇ
 
-````
-
-```text
-┌──(system_diagnostics)-[uzair@machine]
-├─ USER       : Uzair Ghole
-├─ ROLE       : SYIT Student
-├─ INSTITUTE  : Hirwal Education Trust, Mahad
-├─ LOCATION   : Maharashtra, India 📍
-├─ PRIMARY    : Full-Stack Development & Data Science
-└─ STATUS     : ONLINE ⚡
 ```
 
 ```text
-┌──(skill_matrix)-[system.load]
-│
-├── 🧠 DATA SCIENCE
-│   ├── Python         [████████████████████░░] 85%
-│   ├── Pandas         [█████████████████░░░░░] 75%
-│   ├── NumPy          [█████████████████░░░░░] 75%
-│   └── Matplotlib     [██████████████░░░░░░░░] 65%
-│
-├── ⚡ WEB DEVELOPMENT
-│   ├── HTML5 / CSS3   [████████████████████░░] 85%
-│   ├── JavaScript     [██████████████████░░░░] 80%
-│   ├── React.js       [████████████████░░░░░░] 70%
-│   └── Node.js        [██████████████░░░░░░░░] 65%
-│
-└── ⚙️ DEVELOPMENT TOOLS
-    ├── Git / GitHub
-    ├── VS Code
-    ├── Anaconda / Spyder
-    └── Vite / npm
+┌──────────────────────────────────────────────────────────────┐
+│                    SYSTEM PROFILE                            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  USER        :: Uzair Ghole                                 │
+│  ROLE        :: SYIT Student / Developer                     │
+│  DOMAIN      :: Full-Stack • Python • Data Science            │
+│  STACK       :: Python • JS • React • Pandas • NumPy          │
+│  ENVIRONMENT :: VS Code • Git • GitHub • Anaconda             │
+│  STATUS      :: ONLINE ⚡                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+## `~/about`
+
+> **Developer in progress.**
+>
+> Learning by building practical projects, experimenting with code, analyzing data, and continuously improving development skills.
+
+```text
+┌──(about)-[~/uzair]
+│
+├─ 🧠 Focus
+│  ├── Python Development
+│  ├── Data Analysis
+│  ├── Full-Stack Development
+│  └── Modern Web Technologies
+│
+├─ ⚙️ Approach
+│  ├── Learn
+│  ├── Build
+│  ├── Debug
+│  ├── Improve
+│  └── Ship
+│
+└─ ⚡ Mindset
+   └── Build > Break > Fix > Repeat
+```
+
+## `~/tech-stack`
+
+```text
+┌── PYTHON ──────────────── ████████████████████
+├── JAVASCRIPT ──────────── ██████████████████░░
+├── HTML / CSS ──────────── ████████████████████
+├── REACT ───────────────── ████████████████░░░░
+├── PANDAS ──────────────── █████████████████░░░
+├── NUMPY ───────────────── █████████████████░░░
+├── MATPLOTLIB ──────────── ██████████████░░░░░░
+├── NODE.JS ─────────────── █████████████░░░░░░░
+└── GIT / GITHUB ────────── ███████████████████░
+```
+
+### `Languages`
+
+```text
+Python        ████████████████████
+JavaScript    ██████████████████░░
+HTML5         ████████████████████
+CSS3          ████████████████████
+```
+
+### `Libraries / Frameworks`
+
+```text
+Pandas        █████████████████░░░
+NumPy         █████████████████░░░
+Matplotlib    ██████████████░░░░░░
+React         ████████████████░░░░
+Node.js       █████████████░░░░░░░
+```
+
+## `~/projects`
 
 ```text
 ┌──(featured_projects)-[~/projects]
 │
-├── 📊 ./Python-Data-Analysis-Practicals
-│   └── Python, NumPy, Pandas & Matplotlib practical projects.
+├─ [01] 📊 Python-Data-Analysis-Practicals
+│      ├─ Python
+│      ├─ NumPy
+│      ├─ Pandas
+│      └─ Matplotlib
 │
-├── 💻 ./Uzair_MERN
-│   └── JavaScript, React, ES6+, components & state management.
+│      └─ Practical data analysis & visualization projects.
 │
-└── 🌐 ./Python-Mastery-Hub
-    └── Interactive learning platform for Python & Data Science.
+├─ [02] ⚛️ Uzair_MERN
+│      ├─ JavaScript
+│      ├─ React
+│      ├─ ES6+
+│      └─ Component-based development
+│
+│      └─ Modern full-stack web development experiments.
+│
+└─ [03] 🐍 Python-Mastery-Hub
+       ├─ Python
+       ├─ HTML
+       ├─ CSS
+       └─ JavaScript
+
+       └─ Interactive Python & Data Science learning platform.
+```
+
+## `~/current-focus`
+
+```text
+┌─ CURRENT OBJECTIVES
+│
+├── 🐍 Master Python
+├── 📊 Data Analysis with Pandas & NumPy
+├── 📈 Data Visualization
+├── ⚛️ Build React Applications
+├── 🌐 Improve Full-Stack Skills
+├── 🔧 Build Real-World Projects
+└── 🚀 Become a Better Developer
+```
+
+## `~/developer-mindset`
+
+```text
+                 ┌───────────────┐
+                 │     LEARN     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BUILD     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     TEST      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     DEBUG     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    IMPROVE    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     SHIP      │
+                 └───────────────┘
+```
+
+## `~/toolbox`
+
+```text
+┌─ DEVELOPMENT
+│
+├── VS Code
+├── Git
+├── GitHub
+├── Anaconda
+├── Spyder
+├── npm
+└── Vite
+```
+
+## `~/learning`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                  KNOWLEDGE PIPELINE                  │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│   Python                                             │
+│      ↓                                               │
+│   NumPy → Pandas → Data Analysis → Visualization    │
+│      ↓                                               │
+│   JavaScript → React → Node.js → Full-Stack         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+## `~/github-mission`
+
+```text
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│     LEARN  →  BUILD  →  TEST  →  DEBUG  →  SHIP       │
+│                                                        │
+│     Every repository is a step forward.               │
+│     Every error is part of the learning process.      │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
+
+## `~/status`
+
+```text
+┌──(uzair⚡dev)-[~]
+└─$ system_status
+
+[✓] SYSTEM          ONLINE
+[✓] DEVELOPER MODE  ACTIVE
+[✓] PYTHON          LOADED
+[✓] DATA SCIENCE    IN PROGRESS
+[✓] WEB DEVELOPMENT IN PROGRESS
+[✓] PROJECTS        BUILDING
+[✓] KNOWLEDGE       INCREASING
+[→] FUTURE          LOADING...
 ```
 
 ```text
-┌──(current_focus)-[~]
-├─ Python & Data Analytics
-├─ Pandas & NumPy
-├─ React.js Development
-├─ Full-Stack Web Development
-└─ Building Practical Projects
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   "Don't just learn the technology.                 │
+│    Build something with it."                        │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
-```text
-┌──(status)-[~]
-└─$ echo "Uzair Ghole — Compiling knowledge. Building projects. 🚀"
-
-Status: ONLINE
-Build : SUCCESS
-Errors: 0
-Warnings: 0
-```
-
----
-
-## ⚡ Tech Stack
-
-```text
-PYTHON      ████████████████████
-JAVASCRIPT  ██████████████████░░
-REACT       ████████████████░░░░
-PANDAS      █████████████████░░░
-NUMPY       █████████████████░░░
-HTML/CSS    ████████████████████
-GIT/GITHUB  ███████████████████░
-```
-
-## 🧠 Learning & Building
-
-* 🐍 Python Programming
-* 📊 Data Analysis & Visualization
-* 🧮 NumPy & Pandas
-* ⚛️ React.js
-* 🌐 HTML, CSS & JavaScript
-* 🔧 Git & GitHub
-* 🚀 Full-Stack Development
-
-## 📈 GitHub Mission
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   LEARN → BUILD → TEST → IMPROVE → SHIP   │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-> "Code is not just written. It is built, tested, and improved."
-
----
-
-### 👨‍💻 Uzair Ghole
+### ⚡ `Uzair Ghole`
 
 ```text
 [ SYSTEM ONLINE ]
 [ DEVELOPER MODE : ACTIVE ]
-[ KNOWLEDGE LEVEL : INCREASING ]
+[ CODE : RUNNING ]
 [ PROJECTS : BUILDING ]
+[ KNOWLEDGE : INCREASING ]
 [ FUTURE : LOADING... ]
+
+$ exit
+
+> Keep building. 🚀
 ```
