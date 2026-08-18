@@ -1,67 +1,50 @@
-# ⚡ UZAIR GHOLE // DEVELOPER PROFILE
+# ⚡ UZAIR GHOLE
+
+### `Developer • Python • Data Science • Full-Stack`
+
+> **Learning → Building → Debugging → Improving → Shipping**
+
+---
+
+## `01 / IDENTITY`
+
+**Uzair Ghole**
+SYIT Student & Developer
 
 ```text
-┌──(uzair⚡dev)-[~]
-└─$ whoami
-
-Ｕᴢᴀɪʀ  Ｇʜᴏʟᴇ
-
+ROLE        → Student / Developer
+FOCUS       → Python · Data Science · Full-Stack
+INTERESTS   → Web Development · Data Analysis · AI/ML
+STATUS      → Building & Learning
 ```
+
+---
+
+## `02 / ABOUT ME`
+
+I'm a developer in progress focused on turning concepts into practical projects.
+
+I work with **Python, JavaScript, React, Pandas, NumPy and modern web technologies**, while continuously improving my problem-solving and development skills.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SYSTEM PROFILE                            │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  USER        :: Uzair Ghole                                 │
-│  ROLE        :: SYIT Student / Developer                     │
-│  DOMAIN      :: Full-Stack • Python • Data Science            │
-│  STACK       :: Python • JS • React • Pandas • NumPy          │
-│  ENVIRONMENT :: VS Code • Git • GitHub • Anaconda             │
-│  STATUS      :: ONLINE ⚡                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+LEARN
+  ↓
+EXPERIMENT
+  ↓
+BUILD
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+SHIP
 ```
 
-## `~/about`
+> `Build > Break > Fix > Repeat`
 
-> **Developer in progress.**
->
-> Learning by building practical projects, experimenting with code, analyzing data, and continuously improving development skills.
+---
 
-```text
-┌──(about)-[~/uzair]
-│
-├─ 🧠 Focus
-│  ├── Python Development
-│  ├── Data Analysis
-│  ├── Full-Stack Development
-│  └── Modern Web Technologies
-│
-├─ ⚙️ Approach
-│  ├── Learn
-│  ├── Build
-│  ├── Debug
-│  ├── Improve
-│  └── Ship
-│
-└─ ⚡ Mindset
-   └── Build > Break > Fix > Repeat
-```
-
-## `~/tech-stack`
-
-```text
-┌── PYTHON ──────────────── ████████████████████
-├── JAVASCRIPT ──────────── ██████████████████░░
-├── HTML / CSS ──────────── ████████████████████
-├── REACT ───────────────── ████████████████░░░░
-├── PANDAS ──────────────── █████████████████░░░
-├── NUMPY ───────────────── █████████████████░░░
-├── MATPLOTLIB ──────────── ██████████████░░░░░░
-├── NODE.JS ─────────────── █████████████░░░░░░░
-└── GIT / GITHUB ────────── ███████████████████░
-```
+## `03 / TECH STACK`
 
 ### `Languages`
 
@@ -72,167 +55,312 @@ HTML5         ████████████████████
 CSS3          ████████████████████
 ```
 
-### `Libraries / Frameworks`
+### `Data & Python`
 
 ```text
 Pandas        █████████████████░░░
 NumPy         █████████████████░░░
 Matplotlib    ██████████████░░░░░░
+Python        ████████████████████
+```
+
+### `Web Development`
+
+```text
 React         ████████████████░░░░
 Node.js       █████████████░░░░░░░
+JavaScript    ██████████████████░░
+HTML / CSS    ████████████████████
 ```
 
-## `~/projects`
+### `Tools`
+
+`VS Code` · `Git` · `GitHub` · `Anaconda` · `Spyder` · `npm` · `Vite`
+
+---
+
+## `04 / WHAT I BUILD`
+
+### `📊 Python Data Analysis`
+
+Working with:
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+
+**Goal:** Transform raw data into meaningful insights.
+
+---
+
+### `⚛️ Full-Stack Development`
+
+Exploring:
+
+* JavaScript
+* React
+* Node.js
+* REST APIs
+* Component-Based Architecture
+* Modern Frontend Development
+
+**Goal:** Build practical and responsive web applications.
+
+---
+
+### `🐍 Python Mastery Hub`
+
+An interactive learning platform focused on:
 
 ```text
-┌──(featured_projects)-[~/projects]
-│
-├─ [01] 📊 Python-Data-Analysis-Practicals
-│      ├─ Python
-│      ├─ NumPy
-│      ├─ Pandas
-│      └─ Matplotlib
-│
-│      └─ Practical data analysis & visualization projects.
-│
-├─ [02] ⚛️ Uzair_MERN
-│      ├─ JavaScript
-│      ├─ React
-│      ├─ ES6+
-│      └─ Component-based development
-│
-│      └─ Modern full-stack web development experiments.
-│
-└─ [03] 🐍 Python-Mastery-Hub
-       ├─ Python
-       ├─ HTML
-       ├─ CSS
-       └─ JavaScript
-
-       └─ Interactive Python & Data Science learning platform.
+Python
+  ↓
+NumPy
+  ↓
+Pandas
+  ↓
+Data Analysis
+  ↓
+Data Visualization
+  ↓
+Projects
 ```
 
-## `~/current-focus`
+---
+
+## `05 / FEATURED PROJECTS`
+
+### `01` — 📊 Python Data Analysis Practicals
+
+**Stack:** `Python` `NumPy` `Pandas` `Matplotlib`
+
+Practical projects covering data manipulation, analysis and visualization.
+
+---
+
+### `02` — ⚛️ Uzair_MERN
+
+**Stack:** `JavaScript` `React` `Node.js`
+
+Full-stack development experiments focused on modern component-based applications.
+
+---
+
+### `03` — 🐍 Python-Mastery-Hub
+
+**Stack:** `Python` `HTML` `CSS` `JavaScript`
+
+Interactive platform designed to learn Python, NumPy, Pandas and data analysis through structured learning.
+
+---
+
+## `06 / CURRENTLY LEARNING`
 
 ```text
-┌─ CURRENT OBJECTIVES
-│
-├── 🐍 Master Python
-├── 📊 Data Analysis with Pandas & NumPy
-├── 📈 Data Visualization
-├── ⚛️ Build React Applications
-├── 🌐 Improve Full-Stack Skills
-├── 🔧 Build Real-World Projects
-└── 🚀 Become a Better Developer
+[01] Python
+[02] NumPy
+[03] Pandas
+[04] Data Analysis
+[05] Data Visualization
+[06] JavaScript
+[07] React
+[08] Node.js
+[09] Full-Stack Development
+[10] Real-World Project Development
 ```
 
-## `~/developer-mindset`
+---
+
+## `07 / DEVELOPMENT FLOW`
 
 ```text
-                 ┌───────────────┐
-                 │     LEARN     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     BUILD     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     TEST      │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     DEBUG     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    IMPROVE    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     SHIP      │
-                 └───────────────┘
+        IDEA
+         ↓
+      RESEARCH
+         ↓
+       CODE
+         ↓
+       TEST
+         ↓
+       DEBUG
+         ↓
+      REFACTOR
+         ↓
+       BUILD
+         ↓
+       SHIP
 ```
 
-## `~/toolbox`
+**Every error → feedback.**
+**Every project → experience.**
+**Every commit → progress.**
+
+---
+
+## `08 / KNOWLEDGE MAP`
 
 ```text
-┌─ DEVELOPMENT
-│
-├── VS Code
-├── Git
-├── GitHub
-├── Anaconda
-├── Spyder
-├── npm
-└── Vite
+                    PYTHON
+                       │
+             ┌─────────┴─────────┐
+             ↓                   ↓
+           NUMPY              PANDAS
+             │                   │
+             └─────────┬─────────┘
+                       ↓
+                 DATA ANALYSIS
+                       │
+                       ↓
+                VISUALIZATION
+                       │
+                       ↓
+                  PROJECTS
+                       │
+                       ↓
+                  EXPERIENCE
+
+
+                 JAVASCRIPT
+                     │
+                     ↓
+                   REACT
+                     │
+                     ↓
+                  NODE.JS
+                     │
+                     ↓
+               FULL-STACK
+                     │
+                     ↓
+                 PROJECTS
 ```
 
-## `~/learning`
+---
+
+## `09 / TOOLCHAIN`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                  KNOWLEDGE PIPELINE                  │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│   Python                                             │
-│      ↓                                               │
-│   NumPy → Pandas → Data Analysis → Visualization    │
-│      ↓                                               │
-│   JavaScript → React → Node.js → Full-Stack         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+EDITOR        → VS Code
+PYTHON        → Anaconda / Spyder
+VERSION CTRL  → Git
+REPOSITORIES  → GitHub
+PACKAGE MGMT  → npm / pip
+FRONTEND      → React / Vite
 ```
 
-## `~/github-mission`
+---
+
+## `10 / DEVELOPER MINDSET`
 
 ```text
-┌────────────────────────────────────────────────────────┐
-│                                                        │
-│     LEARN  →  BUILD  →  TEST  →  DEBUG  →  SHIP       │
-│                                                        │
-│     Every repository is a step forward.               │
-│     Every error is part of the learning process.      │
-│                                                        │
-└────────────────────────────────────────────────────────┘
+Curiosity       → Learn something new
+Practice        → Write the code
+Failure         → Find the problem
+Debugging       → Understand the problem
+Iteration       → Improve the solution
+Projects        → Apply the knowledge
+Consistency     → Keep moving
 ```
 
-## `~/status`
+> **Don't just learn technology. Build with it.**
+
+---
+
+## `11 / GITHUB MISSION`
 
 ```text
-┌──(uzair⚡dev)-[~]
-└─$ system_status
-
-[✓] SYSTEM          ONLINE
-[✓] DEVELOPER MODE  ACTIVE
-[✓] PYTHON          LOADED
-[✓] DATA SCIENCE    IN PROGRESS
-[✓] WEB DEVELOPMENT IN PROGRESS
-[✓] PROJECTS        BUILDING
-[✓] KNOWLEDGE       INCREASING
-[→] FUTURE          LOADING...
+LEARN
+  ↓
+BUILD
+  ↓
+COMMIT
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+DOCUMENT
+  ↓
+SHIP
 ```
+
+Every repository represents another step forward.
+
+Every bug is another problem solved.
+
+Every project adds another layer of experience.
+
+---
+
+## `12 / CURRENT STATUS`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   "Don't just learn the technology.                 │
-│    Build something with it."                        │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+PYTHON           → ACTIVE
+DATA SCIENCE     → LEARNING
+PANDAS           → BUILDING
+NUMPY            → BUILDING
+VISUALIZATION    → PRACTICING
+JAVASCRIPT       → ACTIVE
+REACT            → LEARNING
+FULL-STACK       → IN PROGRESS
+PROJECTS         → BUILDING
+KNOWLEDGE        → EXPANDING
 ```
 
-### ⚡ `Uzair Ghole`
+### `SYSTEM STATUS`
+
+`● ONLINE`
+
+`● DEVELOPER MODE ACTIVE`
+
+`● CODE RUNNING`
+
+`● PROJECTS BUILDING`
+
+`● FUTURE LOADING...`
+
+---
+
+## `13 / PHILOSOPHY`
 
 ```text
-[ SYSTEM ONLINE ]
-[ DEVELOPER MODE : ACTIVE ]
-[ CODE : RUNNING ]
-[ PROJECTS : BUILDING ]
-[ KNOWLEDGE : INCREASING ]
-[ FUTURE : LOADING... ]
-
-$ exit
-
-> Keep building. 🚀
+             THINK
+               ↓
+             CREATE
+               ↓
+             BUILD
+               ↓
+             FAIL
+               ↓
+             LEARN
+               ↓
+             IMPROVE
+               ↓
+             REPEAT
 ```
+
+> **Code is not about being perfect.
+> It's about getting better with every iteration.**
+
+---
+
+# ⚡ UZAIR GHOLE
+
+```text
+Developer in progress.
+Building skills.
+Building projects.
+Building the future.
+
+$ continue --build
+```
+
+### `STATUS : ONLINE`
+
+`Python` • `Data Science` • `React` • `Full-Stack`
+
+**Keep building. 🚀**
