@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⚡ UZAIR M GHOLE
 
 ### `Developer • Python • Data Science • Full-Stack`
