@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ UZAIR M GHOLE
 
 ### `Developer • Python • Data Science • Full-Stack`
@@ -99,3 +100,7 @@ Repeat 🔁
 ---
 
 > **Build. Learn. Improve. Repeat. ⚡**
+=======
+# Mern-Stack-Practicals
+A collection of MERN Stack practicals, projects, and exercises built with MongoDB, Express.js, React.js, and Node.js.
+>>>>>>> ae4c1256d11ce9f0fd45910dafec2c454991f7bd
