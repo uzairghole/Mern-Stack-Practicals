@@ -1,105 +1,71 @@
+# 🌐 MERN Stack Practicals
 
-# ⚡ UZAIR M GHOLE
+> **JavaScript • React • Node.js • Express • MongoDB**
 
-### `Developer • Python • Data Science • Full-Stack`
+A collection of **MERN Stack practical exercises and academic work** completed during my BSc IT studies.
 
-> **Learning → Building → Debugging → Improving → Shipping**
-
----
-
-## 👨‍💻 About Me
-
-**Uzair Ghole**  
-`SYIT Student & Developer`
-
-```text
-ROLE        → Student / Developer
-FOCUS       → Python · Data Science · Full-Stack
-INTERESTS   → Web Development · Data Analysis · AI / ML
-STATUS      → Building & Learning
-````
+This repository focuses on learning web-development concepts step by step rather than representing one single production application.
 
 ---
 
-## 🚀 What I Do
+## 🎯 What This Repository Covers
 
-* 🐍 Python Development
-* 📊 Data Science & Data Analysis
-* 🤖 AI / Machine Learning
-* 🛠️ Debugging & Problem Solving
-
----
-
-## 🧠 Tech Stack
-
-**Languages**
-`Python` `JavaScript` `HTML` `CSS`
-
-**Data & AI**
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn`
-
-**Web Development**
-`React` `Node.js` `Express` `MongoDB`
-
-**Tools**
-`Git` `GitHub` `VS Code`
+- JavaScript fundamentals
+- Functions and arrays
+- Web development basics
+- React.js practicals
+- React project structure
+- Components and application building
+- MERN Stack concepts
 
 ---
 
-## 🎯 Current Focus
+## 🧰 Technology Stack
 
-```text
-Python              → ███████████████████░░
-Data Science        → ████████████████░░░░
-Full-Stack          → ███████████████░░░░░
-AI / ML             → ████████████░░░░░░░░
-```
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Uzair MERN
-
-Full-stack web applications built using the **MERN stack**.
-
-### 🔹 Python Data Analysis
-
-Projects focused on **Python, data analysis, visualization, and practical problem solving**.
+| Technology | Purpose |
+|---|---|
+| JavaScript | Programming and web logic |
+| HTML | Page structure |
+| CSS | Styling |
+| React | Front-end development |
+| Node.js | JavaScript runtime |
+| Express.js | Back-end concepts |
+| MongoDB | NoSQL database concepts |
 
 ---
 
-## 🌱 Currently Learning
+## 📁 Practical Structure
 
-`Advanced Python` · `Data Science` · `Machine Learning` · `Full-Stack Development`
+    Mern-Stack-Practicals/
+    ├── Practical1/
+    ├── Practical2/
+    ├── Practical3/
+    ├── Practical4/
+    ├── Practical4_2/
+    └── README.md
 
----
-
-## 📈 Developer Journey
-
-```text
-Learning
-   ↓
-Building
-   ↓
-Debugging
-   ↓
-Improving
-   ↓
-Shipping 🚀
-   ↓
-Repeat 🔁
-```
+Each practical is kept separately so the progression of the coursework is easy to follow.
 
 ---
 
-## 📫 Connect With Me
+## 🧭 Learning Flow
 
-💻 **GitHub:** [@uzairghole](https://github.com/uzairghole)
+**HTML + CSS → JavaScript → React → Components → Node.js → Express.js → MongoDB → MERN Stack**
 
 ---
 
-> **Build. Learn. Improve. Repeat. ⚡**
-=======
-# Mern-Stack-Practicals
-A collection of MERN Stack practicals, projects, and exercises built with MongoDB, Express.js, React.js, and Node.js.
+## 🎓 Repository Purpose
+
+This repository is maintained as a **BSc IT practical and learning record**.
+
+The goal is to understand web-development concepts through implementation, debugging and repeated practice.
+
+---
+
+## 👨‍💻 Author
+
+**Uzair Ghole** — TY BSc IT Student
+
+🔗 [GitHub Profile](https://github.com/uzairghole)
+
+> **Learn → Code → Debug → Improve 🚀**
